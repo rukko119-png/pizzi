@@ -8,7 +8,7 @@
     "44": {
       "title": "44",
       "volume": "3",
-      "last_updated": "1771686717",
+      "last_updated": "1771081200",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/na7k598gq78"
       }
@@ -16,7 +16,7 @@
     "140": {
       "title": "140",
       "volume": "",
-      "last_updated": "1771686031",
+      "last_updated": "1768809600",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/9249l83mv4n"
       }
@@ -24,7 +24,7 @@
     "141": {
       "title": "141",
       "volume": "",
-      "last_updated": "1771686241",
+      "last_updated": "1770609600",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/9rydngr3d4k"
       }
@@ -32,9 +32,17 @@
     "142": {
       "title": "142",
       "volume": "",
-      "last_updated": "1771686554",
+      "last_updated": "1771178400",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/vj4jnb6k378"
+      }
+    },
+    "141.5": {
+      "title": "141.5",
+      "volume": "",
+      "last_updated": "1771077600",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/ljyq5j2ony2"
       }
     }
   }
