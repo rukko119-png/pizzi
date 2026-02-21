@@ -15,10 +15,50 @@
     },
     "2": {
       "title": "I'll Take Responsibility",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1755572400",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/qb4zmg5pvyj"
+      }
+    },
+    "3": {
+      "title": "Tsubaki's Goal",
+      "volume": "1",
+      "last_updated": "1755612000",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/qb4zmg5mgyj"
+      }
+    },
+    "4": {
+      "title": "A New Perspective",
+      "volume": "1",
+      "last_updated": "1755612000",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/vj4jnxej578"
+      }
+    },
+    "5": {
+      "title": "Yuu's Daily Life",
+      "volume": "1",
+      "last_updated": "1755619200",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/n87wqk9237x"
+      }
+    },
+    "6": {
+      "title": "It's the Summer Festival",
+      "volume": "1",
+      "last_updated": "1755716400",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/wl7l5na864x"
+      }
+    },
+    "7": {
+      "title": "A Good Boyfriend",
+      "volume": "1",
+      "last_updated": "1755716400",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/dl7p5lap6yo"
       }
     },
     "44": {
@@ -67,6 +107,22 @@
       "last_updated": "1766154600",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/na7k598jb78"
+      }
+    },
+    "5.5": {
+      "title": "When I Grow Up",
+      "volume": "1",
+      "last_updated": "1755705600",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/pg736mdqz7r"
+      }
+    },
+    "7.5": {
+      "title": "Bonus: A Promising Future...?",
+      "volume": "1",
+      "last_updated": "1755716400",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/n87wqk95z7x"
       }
     }
   }
