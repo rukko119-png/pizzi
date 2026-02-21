@@ -5,6 +5,22 @@
   "author": "Nakayama Miyuki",
   "cover": "https://cdn.imgchest.com/files/7a3bb2e19e96.png",
   "chapters": {
+    "1": {
+      "title": "ShotaOni",
+      "volume": "1",
+      "last_updated": "1755514800",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/vj4jnxeee78"
+      }
+    },
+    "2": {
+      "title": "I'll Take Responsibility",
+      "volume": "",
+      "last_updated": "1755572400",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/qb4zmg5pvyj"
+      }
+    },
     "44": {
       "title": "Failure as a Guardian",
       "volume": "3",
