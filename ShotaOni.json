@@ -6,7 +6,7 @@
   "cover": "https://cdn.imgchest.com/files/7a3bb2e19e96.png",
   "chapters": {
     "44": {
-      "title": "44",
+      "title": "Failure as a Guardian",
       "volume": "3",
       "last_updated": "1771081200",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "140": {
-      "title": "140",
+      "title": "No Room for Doubt",
       "volume": "",
       "last_updated": "1768809600",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "141": {
-      "title": "141",
+      "title": "Too",
       "volume": "",
       "last_updated": "1770609600",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "142": {
-      "title": "142",
+      "title": "Extra Encouragement",
       "volume": "",
       "last_updated": "1771178400",
       "groups": {
@@ -38,11 +38,19 @@
       }
     },
     "141.5": {
-      "title": "141.5",
+      "title": "Higa Wants To Eat Chocolate",
       "volume": "",
       "last_updated": "1771077600",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/ljyq5j2ony2"
+      }
+    },
+    "139.5": {
+      "title": "Anime News Update",
+      "volume": "",
+      "last_updated": "1766154600",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/na7k598jb78"
       }
     }
   }
