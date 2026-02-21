@@ -149,6 +149,22 @@
         "Pizzi": "/proxy/api/imgchest/chapter/ljyq5jk2ky2"
       }
     },
+    "19": {
+      "title": "Not a Good Sign",
+      "volume": "1",
+      "last_updated": "1756403290",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/wl7l5nwpp4x"
+      }
+    },
+    "20": {
+      "title": "Way Better Than...",
+      "volume": "1",
+      "last_updated": "1756403334",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/5xy2nrog8yl"
+      }
+    },
     "44": {
       "title": "Failure as a Guardian",
       "volume": "3",
@@ -198,7 +214,7 @@
       }
     },
     "5.5": {
-      "title": "When I Grow Up",
+      "title": "Bonus: When I Grow Up",
       "volume": "1",
       "last_updated": "1755705600",
       "groups": {
@@ -214,7 +230,7 @@
       }
     },
     "8.5": {
-      "title": "Innocent Yuu-nii",
+      "title": "Bonus: Innocent Yuu-nii",
       "volume": "1",
       "last_updated": "1755709241",
       "groups": {
@@ -222,7 +238,7 @@
       }
     },
     "16.5": {
-      "title": "Motherly",
+      "title": "Bonus: Motherly",
       "volume": "1",
       "last_updated": "1756316091",
       "groups": {
@@ -230,11 +246,35 @@
       }
     },
     "18.5": {
-      "title": "Provider Shota",
+      "title": "Bonus: Provider Shota",
       "volume": "1",
       "last_updated": "1756402775",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/9249l8k2a4n"
+      }
+    },
+    "20.5": {
+      "title": "Bonus: If It's for Tsubaki",
+      "volume": "1",
+      "last_updated": "1756403457",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/bp456wojx75"
+      }
+    },
+    "20.6": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1756403603",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/m9yxdenlm4q"
+      }
+    },
+    "20.7": {
+      "title": "Extra: Summer Research Project + Tankoubon Extras",
+      "volume": "1",
+      "last_updated": "1756403665",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/pg736mo3v7r"
       }
     }
   }
