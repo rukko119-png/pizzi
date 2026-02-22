@@ -373,6 +373,22 @@
         "Dosweeg": "/proxy/api/imgchest/chapter/6eyr5qo2e7p"
       }
     },
+    "47": {
+      "title": "Yuu-nii's in Trouble",
+      "volume": "3",
+      "last_updated": "1682492978",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/qe4gpabej4j"
+      }
+    },
+    "48": {
+      "title": "Can't Avoid(?) Him...",
+      "volume": "3",
+      "last_updated": "1682493193",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/qe4gpabjj4j"
+      }
+    },
     "140": {
       "title": "No Room for Doubt",
       "volume": "",
@@ -563,6 +579,14 @@
       "last_updated": "1771657335",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/ne7bnebxn75"
+      }
+    },
+    "47.1": {
+      "title": "Bonus Pages",
+      "volume": "3",
+      "last_updated": "1771744302",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/wl7l5nb9q4x"
       }
     }
   }
