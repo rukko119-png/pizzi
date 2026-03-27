@@ -493,6 +493,38 @@
         "Pizzi": "/proxy/api/imgchest/chapter/bp45nwknq45"
       }
     },
+    "136": {
+      "title": "Luring Him In With Something",
+      "volume": "7",
+      "last_updated": "1761925440",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/92499okd84n"
+      }
+    },
+    "137": {
+      "title": "A Mysterious Feeling",
+      "volume": "7",
+      "last_updated": "1763538240",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/lqyez9ldkyd"
+      }
+    },
+    "138": {
+      "title": "Which Is It?",
+      "volume": "7",
+      "last_updated": "1764693900",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/o24amz62w4l"
+      }
+    },
+    "139": {
+      "title": "Don't Be Picky",
+      "volume": "7",
+      "last_updated": "1765363995",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/md7ov6bv9yp"
+      }
+    },
     "140": {
       "title": "No Room for Doubt",
       "volume": "",
@@ -539,14 +571,6 @@
       "last_updated": "1771077600",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/ljyq5j2ony2"
-      }
-    },
-    "139.5": {
-      "title": "Anime News Update",
-      "volume": "",
-      "last_updated": "1766154600",
-      "groups": {
-        "Pizzi": "/proxy/api/imgchest/chapter/na7k598jb78"
       }
     },
     "5.5": {
@@ -771,6 +795,22 @@
       "last_updated": "1774160824",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/m9yxqexqq7q"
+      }
+    },
+    "139.1": {
+      "title": "Anime News Update",
+      "volume": "",
+      "last_updated": "1766154660",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/na7k598jb78"
+      }
+    },
+    "139.5": {
+      "title": "Bonus: It's Getting Colder",
+      "volume": "7",
+      "last_updated": "1762698660",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/qb4zraplg7j"
       }
     }
   }
