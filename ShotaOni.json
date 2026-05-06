@@ -461,6 +461,110 @@
         "Dosweeg": "/proxy/api/imgchest/chapter/pg732mlkj4r"
       }
     },
+    "58": {
+      "title": "Red Bean Bread Melon Bread Croquette Bun",
+      "volume": "4",
+      "last_updated": "1684562552",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/wl7ldo5dqyx"
+      }
+    },
+    "59": {
+      "title": "He Ran Away...",
+      "volume": "4",
+      "last_updated": "1684562706",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/qe4gkwp3j7j"
+      }
+    },
+    "60": {
+      "title": "Could It Be…",
+      "volume": "4",
+      "last_updated": "1684562851",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/n87w2mqpg7x"
+      }
+    },
+    "61": {
+      "title": "Blunt",
+      "volume": "4",
+      "last_updated": "1684562943",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/9p4nm8komyn"
+      }
+    },
+    "62": {
+      "title": "Looking Back...",
+      "volume": "4",
+      "last_updated": "1684563107",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/ej7mr8vq94d"
+      }
+    },
+    "63": {
+      "title": "<- Puberty ->",
+      "volume": "4",
+      "last_updated": "1684563200",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/a846zd6bzyx"
+      }
+    },
+    "64": {
+      "title": "It's Amazing!",
+      "volume": "4",
+      "last_updated": "1684563321",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/ej7mr8vo94d"
+      }
+    },
+    "65": {
+      "title": "Confession",
+      "volume": "4",
+      "last_updated": "1777995660",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/pg7335mmz7r"
+      }
+    },
+    "66": {
+      "title": "The Same \"Love\"",
+      "volume": "4",
+      "last_updated": "1684563476",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/m9yxl3dopyq"
+      }
+    },
+    "67": {
+      "title": "Honest Question",
+      "volume": "4",
+      "last_updated": "1684563563",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/5xy2m2n9z7l"
+      }
+    },
+    "68": {
+      "title": "No. 1 Supporter",
+      "volume": "4",
+      "last_updated": "1684563782",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/a846zd6jzyx"
+      }
+    },
+    "69": {
+      "title": "A Child's Charms",
+      "volume": "4",
+      "last_updated": "1685255018",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/ej7mr8vd94d"
+      }
+    },
+    "70": {
+      "title": "So Many Things  I Want To Do",
+      "volume": "4",
+      "last_updated": "1685255141",
+      "groups": {
+        "Dosweeg": "/proxy/api/imgchest/chapter/924953l6byn"
+      }
+    },
     "124": {
       "title": "A Date (Shopping)",
       "volume": "7",
@@ -907,6 +1011,30 @@
       "last_updated": "1776602068",
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/o24adbxd34l"
+      }
+    },
+    "63.1": {
+      "title": "Bonus Pages",
+      "volume": "4",
+      "last_updated": "1777994040",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/wl7ld2nqpyx"
+      }
+    },
+    "67.5": {
+      "title": "Bonus: Me...?!",
+      "volume": "4",
+      "last_updated": "1777995720",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/o24ao8wz3yl"
+      }
+    },
+    "67.6": {
+      "title": "Extra: How They Met",
+      "volume": "4",
+      "last_updated": "1777995840",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/ej7mrlgaa4d"
       }
     }
   }
