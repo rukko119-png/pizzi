@@ -1180,6 +1180,14 @@
       "groups": {
         "Pizzi": "/proxy/api/imgchest/chapter/m9yxp8m664q"
       }
+    },
+    "76.7": {
+      "title": "Volume 4 Special Book",
+      "volume": "4",
+      "last_updated": "1785606999",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/ne7bz2v8g75"
+      }
     }
   }
 }
