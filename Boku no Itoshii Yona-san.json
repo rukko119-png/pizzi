@@ -1,0 +1,17 @@
+{
+  "title": "Boku no Itoshii Yona-san",
+  "description": "A story of a boy whose first love is the onii-san from the goldfish shop who has a secret.",
+  "artist": "Yoichi (夜市)",
+  "author": "Yoichi (夜市)",
+  "cover": "https://cdn.imgchest.com/files/b608d79ebf2d.png",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1789382928",
+      "groups": {
+        "Pizzi": "/proxy/api/imgchest/chapter/9249rw6ra4n"
+      }
+    }
+  }
+}
